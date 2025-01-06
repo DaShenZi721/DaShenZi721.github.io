@@ -15,9 +15,6 @@ redirect_from:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/hra.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 -[Bridging The Gap between Low-rank and Orthogonal Adaptation via Householder Reflection Adaptation](https://arxiv.org/pdf/2405.17484)
   - **Shen Yuan**, Haotian Liu, Hongteng Xu
   - The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024), **Spotlight**
