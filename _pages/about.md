@@ -12,35 +12,36 @@ redirect_from:
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉 One paper is accepted by NeurIPS 2024
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/hra.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/hra.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+-[Bridging The Gap between Low-rank and Orthogonal Adaptation via Householder Reflection Adaptation](https://arxiv.org/pdf/2405.17484)
+  - **Shen Yuan**, Haotian Liu, Hongteng Xu
+  - The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024), **Spotlight**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+-[MMPolymer: A Multimodal Multitask Pretraining Framework for Polymer Property Prediction.](https://dl.acm.org/doi/abs/10.1145/3627673.3679684)
+  - Fanmeng Wang, Wentao Guo, Minjie Cheng, **Shen Yuan**, Hongteng Xu, Zhifeng Gao
+  - Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM 2024)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+-[Hierarchical Contrastive Learning for Temporal Point Processes](https://ojs.aaai.org/index.php/AAAI/article/view/26211/25983)
+  - Qingmei Wang, Minjie Cheng, **Shen Yuan**, Hongteng Xu
+  - AAAI Conference on Artificial Intelligence (AAAI 2023)
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+-[Self-organized Hawkes Processes](https://drive.google.com/file/d/1FXz62VI5PDMZPtPXGZs2KsoQoSZkaOLx/view)
+  - **Shen Yuan**, Hongteng Xu
+  - Artificial Intelligence: First CAAI International Conference (CICAI 2021)
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.10* Third Prize of Renmin University of China Scholarship 
+- *2024.09* Merit Student of Renmin University of China
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.09 - present*, Gaoling School of Artificial Intelligence, Renmin University of China, Beijing, China 
+- *2017.09 - 2021.06*, School of Computer Science and Engineering, University of Electronic Science and Technology of China, Chengdu, China
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.07 - 2024.02*, BioMap, Beijing, China
+- *2022.02 - 2022.08*, Tencent AI Lab, Shenzhen, China
